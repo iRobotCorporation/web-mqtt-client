@@ -130,3 +130,5 @@ var MqttClient = function(args) { // eslint-disable-line no-unused-vars
 
   return self;
 };
+
+module.exports = MqttClient
